@@ -18,6 +18,7 @@ Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar
 | Driver | ST-Link |
 | Bahasa Pemrograman | C/C++ |
 | Sensor | KY-008 Laser Head 5V 650NM (x1) |
+| Layar | OLED I2C |
 | Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Adaptor DC 5V (x1), Breadboard (x1), dan Sekrup (1 set) |
 
 <br><br>
