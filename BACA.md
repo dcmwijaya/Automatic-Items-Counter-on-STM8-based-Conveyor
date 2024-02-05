@@ -46,7 +46,7 @@ Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/492708b0-cdd6-43c8-9e53-012aeb527fa7" alt="Block-Diagram"></td>
 <td><img src="" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
