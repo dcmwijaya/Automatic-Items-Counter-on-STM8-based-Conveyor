@@ -14,7 +14,7 @@ It can count each object transported by the conveyor through the laser beam. The
 | --- | --- |
 | Development Board | STM8S103F3P6 |
 | Code Editor | Arduino IDE |
-| Driver | USB-SWIM ST Link |
+| Driver | USB-SWIM/SWD ST Link |
 | Programming Language | C/C++ |
 | Sensor | KY-008 Laser Head 5V 650NM (x1) |
 | Other Components | ST-Link V2 (x1), Jumper cable (1 set), and Breadboard (x1) |
@@ -29,7 +29,7 @@ It can count each object transported by the conveyor through the laser beam. The
    ```
 <br>
 
-2. USB-SWIM ST Link
+2. USB-SWIM/SWD ST Link
 
    ```
    https://bit.ly/STLink_Driver
