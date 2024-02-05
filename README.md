@@ -14,7 +14,7 @@ It can count each object transported by the conveyor through the laser beam. The
 | --- | --- |
 | Development Board | STM8S103F3P6 |
 | Code Editor | Arduino IDE |
-| Driver | USB-SWD ST Link |
+| Driver | USB-SWIM ST Link |
 | Programming Language | C/C++ |
 | Sensor | KY-008 Laser Head 5V 650NM (x1) |
 | Other Components | ST-Link V2 (x1), Jumper cable (1 set), and Breadboard (x1) |
@@ -29,7 +29,7 @@ It can count each object transported by the conveyor through the laser beam. The
    ```
 <br>
 
-2. USB-SWD ST Link
+2. USB-SWIM ST Link
 
    ```
    https://bit.ly/STLink_Driver
@@ -58,3 +58,41 @@ It can count each object transported by the conveyor through the laser beam. The
 </table>
 
 <br><br>
+
+## Arduino IDE Setup
+Coming Soon...
+
+<br><br>
+
+## Use of USB-SWIM: ST Link V2
+<img src=""><br><br>
+You can see the wiring between the ``` ST Link V2 ``` and the ``` STM8 ``` board in the picture above.
+
+<br><br>
+
+## Get Started
+1. Download and extract this repository.<br><br>
+   
+2. Make sure you have the necessary electronic components.<br><br>
+   
+3. Make sure your components are designed according to the diagram.<br><br>
+   
+4. Configure your device according to the settings above.<br><br>
+
+5. Please enjoy [Done].
+
+<br><br>
+
+## Highlights
+<img src="" alt="auto_items_counter">
+
+<br><br>
+
+## LICENSE
+MIT License - Copyright © 2024 - Devan C. M. Wijaya, S.Kom
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
