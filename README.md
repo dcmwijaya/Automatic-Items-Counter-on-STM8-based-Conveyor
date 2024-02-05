@@ -1,1 +1,1 @@
-# Penghitung-Barang-Otomatis-pada-Konveyor-berbasis-STM8
+# Automatic-Items-Counter-on-STM8-based-Conveyor
