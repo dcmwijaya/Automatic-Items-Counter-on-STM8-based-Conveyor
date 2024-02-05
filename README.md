@@ -17,7 +17,7 @@ It can count each object transported by the conveyor through the laser beam. The
 | Programmer Tools | ST-Link/V2 |
 | Driver | ST-Link |
 | Programming Language | C/C++ |
-| Arduino Library | Adafruit GFX, Adafruit SH1106 |
+| Arduino Library | Adafruit GFX, Adafruit SH110X |
 | Sensor | KY-008 Laser Head 5V 650NM (x1) |
 | Display | OLED I2C (x1) |
 | Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Adaptor DC 5V (x1), Breadboard (x1), and Screws (1 set) |
