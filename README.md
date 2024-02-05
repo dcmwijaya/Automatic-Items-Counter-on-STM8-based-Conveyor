@@ -14,8 +14,8 @@ It can count each object transported by the conveyor through the laser beam. The
 | --- | --- |
 | Development Board | STM8S103F3P6 |
 | Code Editor | Arduino IDE |
-| Programmer Tools | ST-Link V2 |
-| Driver | USB-SWIM/SWD ST-Link |
+| Programmer Tools | ST-Link/V2 |
+| Driver | ST-Link |
 | Programming Language | C/C++ |
 | Sensor | KY-008 Laser Head 5V 650NM (x1) |
 | Other Components | Jumper cable (1 set) and Breadboard (x1) |
@@ -30,7 +30,7 @@ It can count each object transported by the conveyor through the laser beam. The
    ```
 <br>
 
-2. USB-SWIM/SWD ST-Link
+2. ST-Link Driver
 
    ```
    https://bit.ly/STLink_Driver
@@ -83,9 +83,14 @@ It can count each object transported by the conveyor through the laser beam. The
 
 <br><br>
 
-## Programmer Tools Setup: ST-Link V2
+## Programmer Tools Setup: ST-Link/V2
 <img src=""><br><br>
-You can see the wiring between the ``` ST-Link V2 ``` and the ``` STM8 ``` board in the picture above.
+
+<strong>Notes:</strong>
+
+   • The single wire interface module or ``` SWIM ``` is basically used to communicate with the ``` STM8 ``` board.
+   
+   • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in the picture above.
 
 <br><br>
 
