@@ -18,7 +18,7 @@ It can count each object transported by the conveyor through the laser beam. The
 | Driver | ST-Link |
 | Programming Language | C/C++ |
 | Sensor | KY-008 Laser Head 5V 650NM (x1) |
-| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Adaptor DC 5V (x1), Breadboard (x1), Bolts plus (1 set), and Nuts (1 set) |
+| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Adaptor DC 5V (x1), Breadboard (x1), and Screws (1 set) |
 
 <br><br>
 
