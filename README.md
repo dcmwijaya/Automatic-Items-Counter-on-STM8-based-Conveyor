@@ -15,7 +15,7 @@ It can count each object transported by the conveyor through the laser beam. The
 | Development Board | STM8S103F3P6 |
 | Code Editor | Arduino IDE |
 | Programmer Tools | ST-Link V2 |
-| Driver | USB-SWIM/SWD ST Link |
+| Driver | USB-SWIM/SWD ST-Link |
 | Programming Language | C/C++ |
 | Sensor | KY-008 Laser Head 5V 650NM (x1) |
 | Other Components | Jumper cable (1 set) and Breadboard (x1) |
@@ -30,7 +30,7 @@ It can count each object transported by the conveyor through the laser beam. The
    ```
 <br>
 
-2. USB-SWIM/SWD ST Link
+2. USB-SWIM/SWD ST-Link
 
    ```
    https://bit.ly/STLink_Driver
@@ -61,13 +61,31 @@ It can count each object transported by the conveyor through the laser beam. The
 <br><br>
 
 ## Arduino IDE Setup
-Coming Soon...
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` auto_counter.ino ```.<br><br>
+   
+2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
+   • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+   
+   ```
+   https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
+   ```
+   
+3. ``` Board Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` Sduino STM8 plain C core (non-C++) ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` STM8S Boards ``` -> ``` STM8S103F3 Breakout Board ```.<br><br>
+   
+4. ``` Change Programmer ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```.<br><br>
+   
+5. ``` Port Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+
+6. Please click: ``` Upload ```.
 
 <br><br>
 
-## Programmer Tools Setup: ST Link V2
+## Programmer Tools Setup: ST-Link V2
 <img src=""><br><br>
-You can see the wiring between the ``` ST Link V2 ``` and the ``` STM8 ``` board in the picture above.
+You can see the wiring between the ``` ST-Link V2 ``` and the ``` STM8 ``` board in the picture above.
 
 <br><br>
 
