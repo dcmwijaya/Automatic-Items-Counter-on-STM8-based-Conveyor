@@ -5,7 +5,7 @@
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Solo Project: Automatic Items Counter on STM8-based Conveyor</strong><br><br>
-It can count each object transported by the conveyor through the laser beam. The STM8 was used by the author in this project because it has a high speed of thinking and excels in terms of performance.
+Each item transported by the conveyor will be counted if it hits the laser beam. The result of the count will be displayed on an OLED screen.
 
 <br><br>
 
