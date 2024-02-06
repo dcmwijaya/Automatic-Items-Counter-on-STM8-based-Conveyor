@@ -5,7 +5,7 @@
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Solo Project: Automatic Items Counter on STM8-based Conveyor</strong><br><br>
-Each item transported by the conveyor will be counted if it hits the laser beam. The constant light emitted by this laser is used as a trigger in terms of sensor readings. The result of the count will be displayed on an OLED screen.
+Each item transported by the conveyor will be counted if it hits the laser beam. The constant light emitted by this laser is used as a trigger in terms of sensor readings. The result of the calculation is displayed on the OLED screen.
 
 <br><br>
 
