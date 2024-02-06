@@ -49,7 +49,7 @@ It can count each object transported by the conveyor through the laser beam. The
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/87311657-08e6-4f50-bdce-bc5b4a42ed85" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/988bedc4-2e21-47b1-834c-974e7c4c3dc7" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/9fc3d494-7297-40f9-8fa9-bb9771fc4fe8" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
