@@ -86,7 +86,7 @@ Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar
 <br><br>
 
 ## Pengaturan Alat Pemrogram: ST-Link/V2
-<img src=""><br><br>
+<img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/2baa1fe4-3735-441a-8bdb-9620513297f8"><br><br>
 
 <strong>Catatan :</strong>
 
