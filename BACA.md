@@ -93,6 +93,8 @@ Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar
    • Modul antarmuka kabel tunggal atau ``` SWIM ``` pada dasarnya digunakan untuk berkomunikasi dengan board ``` STM8 ```.
    
    • Pemasangan kabel antara ``` ST-Link/V2 ``` dengan board ``` STM8 ``` dapat anda lihat selengkapnya pada gambar di atas.
+   
+   • Untuk mengunggah program, selain menggunakan ``` ST-Link/V2 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` FTDI FT232RL ``` ataupun ``` PL2303 ```.
 
 <br><br>
 
