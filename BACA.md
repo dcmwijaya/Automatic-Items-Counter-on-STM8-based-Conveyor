@@ -21,7 +21,7 @@ Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar
 | Aktuator | KY-008 Laser Head 5V 650NM (x1) |
 | Sensor | LDR: Resistor Cahaya (x1) |
 | Layar | OLED I2C (x1) |
-| Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Adaptor DC 5V (x1), Breadboard (x1), dan Sekrup (1 set) |
+| Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Adaptor DC 5V (x1), Breadboard (x1), Resistor (1 set) |
 
 <br><br>
 
@@ -48,7 +48,7 @@ Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/492708b0-cdd6-43c8-9e53-012aeb527fa7" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/87311657-08e6-4f50-bdce-bc5b4a42ed85" alt="Block-Diagram"></td>
 <td><img src="" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
@@ -87,7 +87,7 @@ Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar
 <br><br>
 
 ## Pengaturan Alat Pemrogram: ST-Link/V2
-<img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/2baa1fe4-3735-441a-8bdb-9620513297f8"><br><br>
+<img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1603251b-3a6e-476f-9f56-2b5599154709"><br><br>
 
 <strong>Catatan :</strong>
 
