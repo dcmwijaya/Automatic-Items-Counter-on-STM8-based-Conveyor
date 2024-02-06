@@ -5,7 +5,7 @@
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Proyek Tunggal: Penghitung Barang Otomatis pada Konveyor berbasis STM8</strong><br><br>
-Alat ini dapat menghitung setiap objek yang diangkut oleh konveyor melalui sinar laser. STM8 digunakan oleh penulis dalam proyek ini karena memiliki kecepatan berpikir yang tinggi dan unggul dalam hal kinerja.
+Setiap barang yang diangkut konveyor akan dihitung jumlahnya jika mengenai sinar laser. Hasil perhitungannya akan ditampilkan pada layar OLED.
 
 <br><br>
 
