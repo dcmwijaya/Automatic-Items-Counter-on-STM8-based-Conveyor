@@ -81,7 +81,9 @@ The items are transported by the conveyor through the laser beam. At the same ti
 5. ``` Port Setup ``` in Arduino IDE<br><br>
    • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
 
-6. Please click: ``` Upload ```.
+6. Please click: ``` Upload ```.<br><br>
+
+7. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
