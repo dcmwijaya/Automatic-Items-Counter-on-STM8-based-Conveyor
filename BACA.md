@@ -57,7 +57,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/bf176e21-9dd8-456e-b1be-4daaad34c15b" alt="Wiring"></td>
 </tr>
 </table>
 
