@@ -5,7 +5,7 @@
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Proyek Tunggal: Penghitung Barang Otomatis pada Konveyor berbasis STM8</strong><br><br>
-Setiap barang yang diangkut oleh konveyor akan melewati sinar laser. Sistem yang ada dapat menghitung jumlah barang. Cahaya konstan yang dipancarkan oleh laser ini digunakan sebagai pemicu dalam pembacaan sensor. Sensor LDR akan mengukur tinggi-rendahnya intensitas cahaya yang dihasilkan dari laser. Jika cahaya yang masuk itu kurang memadai, maka dianggap ada objek. Hasil perhitungannya akan ditampilkan pada layar OLED. Proyek ini dapat memungkinkan pelaku bisnis melakukan efisiensi dalam ranah produksi.
+Barang yang diangkut oleh konveyor akan melewati sinar laser. Sistem yang ada dapat menghitung jumlah barang secara otomatis. Cahaya konstan yang dipancarkan oleh laser ini digunakan sebagai pemicu dalam pembacaan sensor. Sensor LDR akan mengukur tinggi-rendahnya intensitas cahaya yang dipancarkan dari laser. Dalam keadaan normal, intensitas cahaya yang diterima oleh sensor yaitu tinggi. Hasil perhitungannya akan ditampilkan pada layar OLED. Proyek yang dibuat ini dapat memungkinkan pelaku bisnis melakukan efisiensi produksi.
 
 <br><br>
 
