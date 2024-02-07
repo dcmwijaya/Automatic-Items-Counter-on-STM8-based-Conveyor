@@ -116,6 +116,11 @@ The items are transported by the conveyor through the laser beam. At the same ti
 
 <br><br>
 
+## Disclaimer
+This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+
+<br><br>
+
 ## LICENSE
 MIT License - Copyright © 2024 - Devan C. M. Wijaya, S.Kom
 
