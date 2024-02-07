@@ -47,8 +47,8 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/87311657-08e6-4f50-bdce-bc5b4a42ed85" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/90cc3df5-2b13-416b-9ab0-8accf079b91e" alt="Pictorial-Diagram"></td>
+<td><img src="" alt="Block-Diagram"></td>
+<td><img src="" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -56,7 +56,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/bf176e21-9dd8-456e-b1be-4daaad34c15b" alt="Wiring"></td>
+<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/67e0f08b-0e5c-4d1d-ab97-76a3ca3c4492" alt="Wiring"></td>
 </tr>
 </table>
 
