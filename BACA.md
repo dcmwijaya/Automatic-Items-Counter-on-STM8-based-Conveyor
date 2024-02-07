@@ -18,7 +18,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 | Driver | ST-Link |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | Adafruit GFX, Adafruit SH110X |
-| Sensor | LDR: Resistor Cahaya (x1), KY-008: Modul Laser 5V (x1) |
+| Sensor | LDR: Resistor Cahaya (x1), KY-008: Modul Pemancar Laser 5V (x1) |
 | Layar | OLED I2C (x1) |
 | Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Adaptor DC 5V (x1), Breadboard (x1), Resistor (1 set) |
 
