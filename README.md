@@ -95,6 +95,8 @@ The items are transported by the conveyor through the laser beam. At the same ti
    
    • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in the picture above.
 
+   • Based on personal experience, the STM8 can only be programmed with ``` ST-Link ```.
+
 <br><br>
 
 ## Get Started
