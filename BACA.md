@@ -78,14 +78,11 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 4. ``` Ubah Pemrogram ``` di Arduino IDE<br><br>
    • Cara: klik ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```.<br><br>
    
-5. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
-6. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-7. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
-
-8. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+7. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
