@@ -99,8 +99,8 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 <br><br>
 
-## Membuka kunci STM8 yang dilindungi dari penulisan
-Untuk membuka proteksi pada board ``` STM8 ``` :<br><br>
+## Membuka proteksi yang ada pada STM8
+Untuk membukanya, anda harus melakukan beberapa hal antara lain :<br><br>
 1. Buka ``` CMD ``` -> masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.<br><br>
 
 2. Masukan perintah :
