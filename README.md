@@ -99,6 +99,24 @@ The items are transported by the conveyor through the laser beam. At the same ti
 
 <br><br>
 
+## Removing write protection on STM8
+The write protection on the ``` StM8 ``` can be removed through several steps, among others :<br><br>
+1. Open ``` CMD (Command Prompt) ```.<br><br>
+
+2. Enter into the directory : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.<br><br>
+
+3. Input the command:
+   ```
+   stm8flash -cstlinkv2 -pstm8s103?3 -u
+   ```
+   <br>
+   
+4. Press ```Enter ```, then you can see the result as the picture below.
+   
+   <img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
+
+<br><br>
+
 ## Get Started
 1. Download and extract this repository.<br><br>
    
