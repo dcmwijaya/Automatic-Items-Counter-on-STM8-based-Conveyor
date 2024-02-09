@@ -90,7 +90,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <br><br>
 
 ## Pengaturan Alat Pemrogram: ST-Link/V2
-<img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1603251b-3a6e-476f-9f56-2b5599154709"><br><br>
+<img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
 
 <strong>Catatan :</strong>
 
