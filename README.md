@@ -78,14 +78,11 @@ The items are transported by the conveyor through the laser beam. At the same ti
 4. ``` Change Programmer ``` in Arduino IDE<br><br>
    • Method: click ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```.<br><br>
    
-5. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+5. Before uploading the program please click: ``` Verify ```.<br><br>
 
-6. Before uploading the program please click: ``` Verify ```.<br><br>
+6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
-
-8. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+7. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
