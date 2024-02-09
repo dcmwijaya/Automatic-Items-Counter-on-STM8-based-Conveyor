@@ -99,6 +99,19 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 <br><br>
 
+## Membuka kunci STM8 yang dilindungi dari penulisan
+Anda dapat membuka kunci STM8 sebelum digunakan pertama kali dengan cara berikut :<br><br>
+1. Buka ``` CMD ```.
+2. Lalu masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.
+3. Kemudian ketik perintah :
+```
+   stm8flash -cstlinkv2 -pstm8s103?3 -u
+```
+4. Tekan ``` Enter ```, lalu hasilnya dapat anda lihat seperti gambar di bawah ini.
+   <img src="">
+
+<br><br>
+
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>
    
