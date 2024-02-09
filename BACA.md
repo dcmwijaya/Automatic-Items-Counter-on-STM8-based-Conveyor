@@ -99,8 +99,8 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 <br><br>
 
-## Membuka proteksi penulisan pada STM8
-Untuk membukanya, anda harus melakukan beberapa hal antara lain :<br><br>
+## Menghilangkan proteksi penulisan pada STM8
+Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan, antara lain :<br><br>
 1. Membuka ``` CMD (Command Prompt) ```.<br><br>
 
 2. Masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.<br><br>
