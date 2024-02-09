@@ -17,7 +17,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 | Programmer Tools | ST-Link/V2 |
 | Driver | ST-Link |
 | Programming Language | C/C++ |
-| Arduino Library | Adafruit GFX, Adafruit SH110X |
+| Arduino Library | ? |
 | Sensor | LDR: Light Dependent Resistor (x1), KY-008: Laser Transmitter Module 5V (x1) |
 | Display | OLED I2C (x1) |
 | Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Adaptor DC 5V (x1), Breadboard (x1), Resistor (1 set) |
