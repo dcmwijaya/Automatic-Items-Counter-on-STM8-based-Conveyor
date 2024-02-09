@@ -99,7 +99,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 <br><br>
 
-## Membuka proteksi penulisan yang ada di STM8
+## Membuka proteksi penulisan pada STM8
 Untuk membukanya, anda harus melakukan beberapa hal antara lain :<br><br>
 1. Membuka ``` CMD (Command Prompt) ```.<br><br>
 
