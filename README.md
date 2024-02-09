@@ -111,7 +111,7 @@ The write protection on the ``` StM8 ``` can be removed through several steps, a
    ```
    <br>
    
-4. Press ```Enter ```, then you can see the result as the picture below.
+4. Press ``` Enter ```, then you can see the result as the picture below.
    
    <img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
 
