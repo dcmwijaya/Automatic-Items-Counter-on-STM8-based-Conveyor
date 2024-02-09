@@ -100,17 +100,16 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <br><br>
 
 ## Membuka kunci STM8 yang dilindungi dari penulisan
-Anda dapat membuka kunci STM8 sebelum digunakan pertama kali dengan cara berikut :<br><br>
-1. Buka ``` CMD ```.
-   
-2. Lalu masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.
+Untuk membuka proteksi pada board ``` STM8 ``` :<br><br>
+1. Buka ``` CMD ``` -> masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.<br><br>
 
-3. Kemudian ketik perintah :
+2. Masukan perintah :
    ```
    stm8flash -cstlinkv2 -pstm8s103?3 -u
    ```
+   <br>
    
-4. Tekan ``` Enter ```, lalu hasilnya dapat anda lihat seperti gambar di bawah ini.
+3. Tekan ``` Enter ```, lalu hasilnya dapat anda lihat seperti gambar di bawah ini.
    
    <img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
 
