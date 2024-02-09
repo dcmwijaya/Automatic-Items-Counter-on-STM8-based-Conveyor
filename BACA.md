@@ -99,17 +99,19 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 <br><br>
 
-## Membuka proteksi yang ada pada STM8
+## Membuka proteksi penulisan yang ada di STM8
 Untuk membukanya, anda harus melakukan beberapa hal antara lain :<br><br>
-1. Buka ``` CMD ``` -> masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.<br><br>
+1. Membuka ``` CMD (Command Prompt) ```.<br><br>
 
-2. Masukan perintah :
+2. Masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.<br><br>
+
+3. Masukan perintah :
    ```
    stm8flash -cstlinkv2 -pstm8s103?3 -u
    ```
    <br>
    
-3. Tekan ``` Enter ```, lalu hasilnya dapat anda lihat seperti gambar di bawah ini.
+4. Tekan ``` Enter ```, lalu hasilnya dapat anda lihat seperti gambar di bawah ini.
    
    <img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
 
