@@ -95,6 +95,8 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
    
    • Pemasangan kabel antara ``` ST-Link/V2 ``` dengan board ``` STM8 ``` dapat anda lihat selengkapnya pada gambar di atas.
 
+   • Berdasarkan pengalaman pribadi, ``` STM8 ``` hanya dapat diprogram dengan ``` ST-Link ```.
+
 <br><br>
 
 ## Memulai
