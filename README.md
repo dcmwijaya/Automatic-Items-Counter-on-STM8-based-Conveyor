@@ -95,8 +95,6 @@ The items are transported by the conveyor through the laser beam. At the same ti
    
    • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in the picture above.
 
-   • To upload the program, besides using the ``` ST-Link/V2 ```, you can also use other programming tools such as: ``` FTDI FT232RL ``` or ``` PL2303 ```.
-
 <br><br>
 
 ## Get Started
