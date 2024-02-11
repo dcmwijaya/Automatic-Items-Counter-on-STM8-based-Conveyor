@@ -63,7 +63,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <br><br>
 
 ## Pengaturan Arduino IDE
-1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` :
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik ``` File ``` -> ``` Open ``` :
 
    <table><tr><td width="840">
    
