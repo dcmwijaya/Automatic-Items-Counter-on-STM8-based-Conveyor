@@ -63,20 +63,50 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` auto_counter.ino ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` :
+
+   <table><tr><td width="840">
    
-2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
-   • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      ``` auto_counter.ino ```
+
+   </td></tr></table><br>
    
-   ```
-   https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
-   ```
+2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE
+
+   <table><tr><td width="840">
+      
+      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
    
-3. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` Sduino STM8 plain C core (non-C++) ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` STM8S Boards ``` -> ``` STM8S103F3 Breakout Board ```.<br><br>
+      ```
+      https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
+      ```
+
+   </td></tr></table><br>
    
-4. ``` Change Programmer ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```.<br><br>
+3. ``` Board Setup ``` in Arduino IDE
+
+   <table>
+      <tr><th width="840">
+
+      How to setup the ``` STM8S103F3P6 ``` board
+            
+      </th></tr>
+      <tr><td>
+
+      • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` Sduino STM8 plain C core (non-C++) ```.
+
+      • Then click ``` Tools ``` -> ``` Board ``` -> ``` STM8S Boards ``` -> ``` STM8S103F3 Breakout Board ```.
+            
+      </td></tr>
+   </table><br>
+   
+4. ``` Change Programmer ``` in Arduino IDE
+
+   <table><tr><td width="840">
+      
+   Click ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```.
+
+   </td></tr></table><br>
    
 5. Before uploading the program please click: ``` Verify ```.<br><br>
 
