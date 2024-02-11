@@ -75,7 +75,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
    <table><tr><td width="840">
       
-   Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+   Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut :
    
    ```
    https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
