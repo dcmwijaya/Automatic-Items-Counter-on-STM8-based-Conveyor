@@ -18,9 +18,9 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 | Driver | ST-Link |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | ? |
-| Sensor | LDR: Resistor Cahaya (x1), KY-008: Modul Pemancar Laser 5V (x1) |
+| Sensor | • LDR: Resistor Cahaya (x1)<br>• KY-008: Modul Pemancar Laser 5V (x1) |
 | Layar | OLED I2C (x1) |
-| Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Adaptor DC 5V (x1), Breadboard (x1), Resistor (1 set) |
+| Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Resistor (1 set) |
 
 <br><br>
 
@@ -63,20 +63,50 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <br><br>
 
 ## Pengaturan Arduino IDE
-1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` auto_counter.ino ```.<br><br>
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` :
+
+   <table><tr><td width="840">
    
-2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+      ``` auto_counter.ino ```
+
+   </td></tr></table><br>
+   
+2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE
+
+   <table><tr><td width="840">
+      
+   Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
    
    ```
    https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
    ```
+
+   </td></tr></table><br>
    
-3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` Sduino STM8 plain C core (non-C++) ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` STM8S Boards ``` -> ``` STM8S103F3 Breakout Board ```.<br><br>
+3. ``` Pengaturan Board ``` di Arduino IDE
+
+   <table>
+      <tr><th width="840">
+            
+      Cara mengatur board ``` STM8S103F3P6 ```
    
-4. ``` Ubah Pemrogram ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```.<br><br>
+      </th></tr>
+      <tr><td>
+
+      • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` Sduino STM8 plain C core (non-C++) ```.
+
+      • Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` STM8S Boards ``` -> ``` STM8S103F3 Breakout Board ```.
+              
+      </td></tr>
+   </table><br>
+   
+4. ``` Ubah Pemrogram ``` di Arduino IDE
+
+   <table><tr><td width="840">
+      
+   Klik ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```
+
+   </td></tr></table><br>
    
 5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
@@ -103,7 +133,13 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan, antara lain :<br><br>
 1. Membuka ``` CMD (Command Prompt) ```.<br><br>
 
-2. Masuk ke dalam direktori : ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```.<br><br>
+2. Masuk ke dalam direktori :
+
+   <table><tr><td width="840">
+
+   ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```
+
+   </td></tr></table><br>
 
 3. Masukan perintah :
    ```
