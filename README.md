@@ -75,7 +75,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 
    <table><tr><td width="840">
       
-      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link :
    
       ```
       https://github.com/tenbaht/sduino/raw/master/package_sduino_stm8_index.json
