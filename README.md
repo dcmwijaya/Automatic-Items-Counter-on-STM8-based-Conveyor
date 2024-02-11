@@ -130,7 +130,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <br><br>
 
 ## Removing write protection on STM8
-The write protection on the ``` StM8 ``` can be removed through several steps, among others :<br><br>
+The write protection on the ``` STM8 ``` can be removed through several steps, among others :<br><br>
 1. Open ``` CMD (Command Prompt) ```.<br><br>
 
 2. Enter into the directory : 
