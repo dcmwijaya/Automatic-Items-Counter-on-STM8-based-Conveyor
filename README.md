@@ -63,7 +63,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` :
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` :
 
    <table><tr><td width="840">
    
