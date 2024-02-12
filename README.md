@@ -27,16 +27,23 @@ The items are transported by the conveyor through the laser beam. At the same ti
 ## Download & Install
 1. Arduino IDE
 
+   <table><tr><td width="810">
+   
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. ST-Link Driver
 
+   <table><tr><td width="810">
+   
    ```
    https://bit.ly/STLink_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -65,7 +72,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 ## Arduino IDE Setup
 1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
    
       ``` auto_counter.ino ```
 
@@ -73,7 +80,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
    
 2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link :
    
@@ -86,7 +93,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 3. ``` Board Setup ``` in Arduino IDE
 
    <table>
-      <tr><th width="840">
+      <tr><th width="810">
 
       How to setup the ``` STM8S103F3P6 ``` board
             
@@ -102,7 +109,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
    
 4. ``` Change Programmer ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
    Click ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```
 
@@ -117,7 +124,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <br><br>
 
 ## Programmer Tools Setup: ST-Link/V2
-<img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
+<img width="810" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
 
 <strong>Notes:</strong>
 
@@ -135,7 +142,7 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
 
 2. Enter into the directory : 
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```
 
@@ -149,7 +156,7 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
    
 4. Press ``` Enter ```, then you can see the result as the picture below.
    
-   <img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
+   <img width="810" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
 
 <br><br>
 
@@ -167,7 +174,7 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
 <br><br>
 
 ## Highlights
-<img src="" alt="auto_items_counter">
+<img width="810" src="" alt="auto_items_counter">
 
 <br><br>
 
