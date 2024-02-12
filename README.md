@@ -128,11 +128,15 @@ The items are transported by the conveyor through the laser beam. At the same ti
 
 <strong>Notes:</strong>
 
+   <table><tr><td width="840">
+
    • The single wire interface module or ``` SWIM ``` is basically used to communicate with the ``` STM8 ``` board.
    
    • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in the picture above.
 
    • Based on personal experience, the ``` STM8 ``` can only be programmed with ``` ST-Link ```.
+
+   </td></tr></table>
 
 <br><br>
 
