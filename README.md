@@ -124,7 +124,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <br><br>
 
 ## Programmer Tools Setup: ST-Link/V2
-<img width="810" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
+<img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
 
 <strong>Notes:</strong>
 
@@ -149,10 +149,14 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
    </td></tr></table><br>
 
 3. Input the command:
-   ```
-   stm8flash -cstlinkv2 -pstm8s103?3 -u
-   ```
-   <br>
+
+   <table><tr><td width="810">
+      
+      ```
+      stm8flash -cstlinkv2 -pstm8s103?3 -u
+      ```
+
+   </td></tr></table><br>
    
 4. Press ``` Enter ```, then you can see the result as the picture below.
    
@@ -174,7 +178,7 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
 <br><br>
 
 ## Highlights
-<img width="810" src="" alt="auto_items_counter">
+<img width="840" src="" alt="auto_items_counter">
 
 <br><br>
 
