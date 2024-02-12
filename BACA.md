@@ -119,7 +119,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-7. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` pengkabelan ``` / ``` yang lainnya ```.
+7. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
