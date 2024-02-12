@@ -119,7 +119,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` wiring ``` / ``` others ``` section.
+7. If there is still a problem when uploading the program, then try checking the ```driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
