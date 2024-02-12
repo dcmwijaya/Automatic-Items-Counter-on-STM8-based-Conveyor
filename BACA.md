@@ -27,16 +27,23 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 ## Unduh & Instal
 1. Arduino IDE
 
+   <table><tr><td width="810">
+
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. ST-Link Driver
 
+   <table><tr><td width="810">
+   
    ```
    https://bit.ly/STLink_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -65,7 +72,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 ## Pengaturan Arduino IDE
 1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik ``` File ``` -> ``` Open ``` :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
    
       ``` auto_counter.ino ```
 
@@ -73,7 +80,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
    
 2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
    Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut :
    
@@ -86,7 +93,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 3. ``` Pengaturan Board ``` di Arduino IDE
 
    <table>
-      <tr><th width="840">
+      <tr><th width="810">
             
       Cara mengatur board ``` STM8S103F3P6 ```
    
@@ -102,7 +109,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
    
 4. ``` Ubah Pemrogram ``` di Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
    Klik ``` Tools ``` -> ``` Programmer ``` -> ``` ST-Link/V2 ```
 
@@ -117,7 +124,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <br><br>
 
 ## Pengaturan Alat Pemrogram: ST-Link/V2
-<img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
+<img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
 
 <strong>Catatan :</strong>
 
@@ -135,21 +142,25 @@ Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan,
 
 2. Masuk ke dalam direktori :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
 
    ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```
 
    </td></tr></table><br>
 
 3. Masukan perintah :
+
+   <table><tr><td width="810">
+   
    ```
    stm8flash -cstlinkv2 -pstm8s103?3 -u
    ```
-   <br>
+
+   </td></tr></table><br>
    
 4. Tekan ``` Enter ```, lalu hasilnya dapat anda lihat seperti gambar di bawah ini.
    
-   <img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
+   <img width="840" height="500" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
 
 <br><br>
 
@@ -167,7 +178,7 @@ Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan,
 <br><br>
 
 ## Sorotan
-<img src="" alt="auto_items_counter">
+<img width="840" src="" alt="auto_items_counter">
 
 <br><br>
 
