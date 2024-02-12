@@ -128,11 +128,15 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 <strong>Catatan :</strong>
 
+   <table><tr><td width="840">
+
    • Modul antarmuka kabel tunggal atau ``` SWIM ``` pada dasarnya digunakan untuk berkomunikasi dengan board ``` STM8 ```.
    
    • Pemasangan kabel antara ``` ST-Link/V2 ``` dengan board ``` STM8 ``` dapat anda lihat selengkapnya pada gambar di atas.
 
    • Berdasarkan pengalaman pribadi, ``` STM8 ``` hanya dapat diprogram dengan ``` ST-Link ```.
+
+   </td></tr></table><br>
 
 <br><br>
 
