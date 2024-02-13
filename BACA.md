@@ -16,6 +16,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 | Editor Kode | Arduino IDE |
 | Alat Pemrogram | ST-Link/V2 |
 | Driver | ST-Link |
+| Protokol Komunikasi | Inter Integrated Circuit (I2C) |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | ? |
 | Sensor | • LDR: Resistor Cahaya (x1)<br>• KY-008: Modul Pemancar Laser 5V (x1) |
