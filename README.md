@@ -16,6 +16,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 | Code Editor | Arduino IDE |
 | Programmer Tools | ST-Link/V2 |
 | Driver | ST-Link |
+| Communications Protocol | Inter Integrated Circuit (I2C) |
 | Programming Language | C/C++ |
 | Arduino Library | ? |
 | Sensor | • LDR: Light Dependent Resistor (x1)<br>• KY-008: Laser Transmitter Module 5V (x1) |
@@ -119,7 +120,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. If there is still a problem when uploading the program, then try checking the ```driver ``` / ``` port ``` / ``` others ``` section.
+7. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
