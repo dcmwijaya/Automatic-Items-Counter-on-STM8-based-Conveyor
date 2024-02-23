@@ -64,7 +64,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/67e0f08b-0e5c-4d1d-ab97-76a3ca3c4492" alt="Wiring"></td>
+<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/415bce1e-be75-4d95-bb26-5361f34402bf" alt="Wiring"></td>
 </tr>
 </table>
 
