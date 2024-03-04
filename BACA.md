@@ -165,7 +165,7 @@ Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan,
 
    <table><tr><td width="810">
 
-   ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```
+   ``` C:\Users\[Computer Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```
 
    </td></tr></table><br>
 
