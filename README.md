@@ -134,10 +134,25 @@ The items are transported by the conveyor through the laser beam. At the same ti
 
    • The single wire interface module or ``` SWIM ``` is basically used to communicate with the ``` STM8 ``` board.
    
-   • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in the picture above.
+   • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in detail in the picture above.
 
    • Based on personal experience, the ``` STM8 ``` can only be programmed with ``` ST-Link ```.
 
+   </td></tr></table>
+
+<br><br>
+
+## Serial Communication Tool Setup: FTDI FT232RL
+<img width="840" src=""><br><br>
+
+<strong>Notes:</strong>
+
+   <table><tr><td width="840">
+
+   • Serial communication on this ``` STM8 ``` board is very possible, especially for ``` Serial Monitor ``` and ``` Serial Plotter ``` purposes. The use of ``` FTDI FT232RL ``` and ``` PL2303 ``` is highly recommended.
+
+   • You can see the wiring between the ``` FTDI FT232RL ``` and the ``` STM8 ``` board in detail in the picture above.
+   
    </td></tr></table>
 
 <br><br>
@@ -150,7 +165,7 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
 
    <table><tr><td width="810">
       
-      ``` C:\Users\[User Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```
+      ``` C:\Users\[Computer Name]\AppData\Local\Arduino15\packages\sduino\tools\STM8Tools\2019.02.05\win ```
 
    </td></tr></table><br>
 
