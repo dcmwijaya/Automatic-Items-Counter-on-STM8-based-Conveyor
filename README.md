@@ -16,7 +16,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 | Code Editor | Arduino IDE |
 | Programmer Tools | ST-Link/V2 |
 | Serial Communication Tools | FTDI FT232RL |
-| Driver | ST-Link |
+| Driver | • ST-Link<br>• USB-Serial CDM |
 | Communications Protocol | Inter Integrated Circuit (I2C) |
 | Programming Language | C/C++ |
 | Arduino Library | LiquidCrystal_I2C (default) |
@@ -43,6 +43,16 @@ The items are transported by the conveyor through the laser beam. At the same ti
    
    ```
    https://bit.ly/STLink_Driver
+   ```
+
+   </td></tr></table><br>
+   
+3. USB-Serial CDM
+
+   <table><tr><td width="810">
+   
+   ```
+   https://bit.ly/CDM_Driver
    ```
 
    </td></tr></table>
