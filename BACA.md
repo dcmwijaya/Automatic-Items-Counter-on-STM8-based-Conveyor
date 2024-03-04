@@ -56,8 +56,8 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/b7624237-778d-44be-ab74-e561b94d51a1" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/0e428d27-71ab-4b51-9342-3b99c144187d" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/380136da-c98e-4f66-8a92-a509497e4231" alt="Block-Diagram"></td>
+<td><img src="" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -65,7 +65,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/415bce1e-be75-4d95-bb26-5361f34402bf" alt="Wiring"></td>
+<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/0ffc3e66-2b79-48d5-a496-336cc9e5f38b" alt="Wiring"></td>
 </tr>
 </table>
 
