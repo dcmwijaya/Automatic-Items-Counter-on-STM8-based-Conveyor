@@ -1,12 +1,10 @@
-#include <Arduino.h>
-
-#define ldrPin PA2
+#define ldrPin PD2
 #define laserPin PD3
 
 int counter = 0;
 int currentState = 0;
 int previousState = 0;
-int ldrValue;
+int ldr;
 
 void setup() {
   Serial_begin(9600);
@@ -14,24 +12,19 @@ void setup() {
   pinMode(laserPin, OUTPUT);
   digitalWrite(laserPin, HIGH);
 }
- 
+
 void loop() {
-  int ldrValue = analogRead(ldrPin);
-  Serial_print_s("\n\nLDR Value\t: ");
-  Serial_print_i(ldrValue);
+  ldr = digitalRead(ldrPin);
   Serial_print_s("\nTotal items\t: ");
 
-  if(ldrValue <= 721){ currentState = 1; }
-  else{ currentState = 0; } 
+  if(ldr == LOW){ currentState = 0; }
+  if(ldr == HIGH){ currentState = 1; } 
   delay(1000);
 
-  if(currentState != previousState){
-    if(currentState == 1){
-      counter = counter + 1;
-      Serial_print_i(counter);
-    }
+  if(currentState == 0 && currentState == previousState){
+    Serial_print_i(counter-1);
   }
-  else {
-    Serial_print_i(counter);
+  else{
+    counter = counter + 1; Serial_print_i(counter-1);
   }
 }
