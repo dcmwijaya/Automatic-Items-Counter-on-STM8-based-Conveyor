@@ -15,16 +15,10 @@ void setup() {
 
 void loop() {
   ldr = digitalRead(ldrPin);
-  Serial_print_s("\nTotal items\t: ");
-
   if(ldr == LOW){ currentState = 0; }
   if(ldr == HIGH){ currentState = 1; } 
+  Serial_print_s("\nTotal items\t: ");
+  if(currentState == 0 && currentState == previousState){ Serial_print_i(counter-1); }
+  else{ counter = counter + 1; Serial_print_i(counter-1); }
   delay(1000);
-
-  if(currentState == 0 && currentState == previousState){
-    Serial_print_i(counter-1);
-  }
-  else{
-    counter = counter + 1; Serial_print_i(counter-1);
-  }
 }
