@@ -5,7 +5,7 @@
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Solo Project: Automatic Items Counter on STM8-based Conveyor</strong><br><br>
-The items are transported by the conveyor through the laser beam. At the same time, the system counts the number of items. The constant light emitted by the laser is used as a trigger in the sensor reading. The sensor will measure the high-low intensity of the incoming light. Under normal circumstances, the received light intensity is high. If the light intensity is low, it is certain that an object is passing by. The calculation results will be displayed on the OLED screen. This work may be useful for business people because it can increase efficiency in production.
+The items are transported by the conveyor through the laser beam. At the same time, the system counts the number of items. The constant light emitted by the laser is used as a trigger in the sensor reading. The sensor will measure the high-low intensity of the incoming light. Under normal circumstances, the received light intensity is high. If the light intensity is low, it is certain that an object is passing by. The calculation results will be displayed on the LCD screen. This work may be useful for business people because it can increase efficiency in production.
 
 <br><br>
 
@@ -153,7 +153,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 <br><br>
 
 ## Serial Communication Tool Setup: FTDI FT232RL
-<img width="840" src=""><br><br>
+<img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1951640d-ee60-48e6-88e6-6aefeaed9bd3"><br><br>
 
 <strong>Notes:</strong>
 
