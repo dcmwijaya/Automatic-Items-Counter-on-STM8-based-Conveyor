@@ -19,9 +19,9 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 | Driver | ST-Link |
 | Protokol Komunikasi | Inter Integrated Circuit (I2C) |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | Arduino (bawaan) |
+| Pustaka Arduino | LiquidCrystal_I2C (bawaan) |
 | Sensor | • LDR: Resistor Cahaya (x1)<br>• KY-008: Modul Pemancar Laser 5V (x1) |
-| Layar | OLED I2C (x1) |
+| Layar | LCD I2C (x1) |
 | Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel Mini USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Resistor (1 set) |
 
 <br><br>
