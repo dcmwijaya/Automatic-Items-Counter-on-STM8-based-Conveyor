@@ -142,6 +142,21 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
 <br><br>
 
+## Pengaturan Alat Komunikasi Serial: FTDI FT232RL
+<img width="840" src=""><br><br>
+
+<strong>Catatan :</strong>
+
+   <table><tr><td width="840">
+
+   • Komunikasi serial pada board ``` STM8 ``` ini sangat dimungkinkan terjadi, terutama untuk keperluan ``` Serial Monitor ``` dan ``` Serial Plotter ```. Penggunaan ``` FTDI FT232RL ``` dan ``` PL2303 ``` sangat direkomendasikan untuk mendukung hal tersebut.
+   
+   • Pemasangan kabel antara ``` FTDI FT232RL ``` dengan board ``` STM8 ``` dapat anda lihat selengkapnya pada gambar di atas.
+
+   </td></tr></table><br>
+
+<br><br>
+
 ## Menghilangkan proteksi penulisan pada STM8
 Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan, antara lain :<br><br>
 1. Membuka ``` CMD (Command Prompt) ```.<br><br>
