@@ -5,7 +5,8 @@
 int counter = 0;
 int currentState = 0;
 int previousState = 0;
-int ldr, pushbutton;
+int ldr = 0; 
+bool pushbutton = false;
 
 void setup() {
   Serial_begin(9600);
@@ -17,8 +18,8 @@ void setup() {
 
 void loop() {
   sensor();
-  display();
   reset();
+  display();
 }
 
 void sensor(){
@@ -26,16 +27,19 @@ void sensor(){
   if(ldr == LOW){ currentState = 0; }
   if(ldr == HIGH){ currentState = 1; } 
   Serial_print_s("\nTotal items\t: ");
-  if(currentState == 0 && currentState == previousState){ Serial_print_i(counter-1); }
-  else{ counter = counter + 1; Serial_print_i(counter-1); }
+  if(currentState == 1 && currentState != previousState){ counter = counter + 1; Serial_print_i(counter-1); }
+  else{ Serial_print_i(counter-1); }
   delay(1000);
+}
+
+void reset(){
+  pushbutton = digitalRead(pbPin);
+  if(previousState != 0 && pushbutton == HIGH){
+    counter = 1;
+    pushbutton == true;
+  }
 }
 
 void display(){
   
-}
-
-void reset(){
-  pushbutton = digitalRead(pbPin); 
-  if(pushbutton == HIGH){ currentState = 0; };
 }
