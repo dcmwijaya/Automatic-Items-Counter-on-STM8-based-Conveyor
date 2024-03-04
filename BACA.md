@@ -16,7 +16,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 | Editor Kode | Arduino IDE |
 | Alat Pemrogram | ST-Link/V2 |
 | Alat Komunikasi Serial | FTDI FT232RL |
-| Driver | ST-Link |
+| Driver | • ST-Link<br>• USB-Serial CDM |
 | Protokol Komunikasi | Inter Integrated Circuit (I2C) |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | LiquidCrystal_I2C (bawaan) |
@@ -43,6 +43,16 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
    
    ```
    https://bit.ly/STLink_Driver
+   ```
+
+   </td></tr></table><br>
+   
+3. USB-Serial CDM
+
+   <table><tr><td width="810">
+   
+   ```
+   https://bit.ly/CDM_Driver
    ```
 
    </td></tr></table>
