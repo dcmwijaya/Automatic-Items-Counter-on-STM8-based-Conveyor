@@ -149,7 +149,7 @@ Barang-barang diangkut oleh konveyor melewati sinar laser. Pada saat yang sama, 
 
    <table><tr><td width="840">
 
-   • Komunikasi serial pada board ``` STM8 ``` ini sangat dimungkinkan terjadi, terutama untuk keperluan ``` Serial Monitor ``` dan ``` Serial Plotter ```. Penggunaan ``` FTDI FT232RL ``` dan ``` PL2303 ``` sangat direkomendasikan untuk mendukung hal tersebut.
+   • Komunikasi serial pada board ``` STM8 ``` ini sangat dimungkinkan terjadi, terutama untuk keperluan ``` Serial Monitor ``` dan ``` Serial Plotter ```. Penggunaan ``` FTDI FT232RL ``` dan ``` PL2303 ``` sangat direkomendasikan.
    
    • Pemasangan kabel antara ``` FTDI FT232RL ``` dengan board ``` STM8 ``` dapat anda lihat selengkapnya pada gambar di atas.
 
