@@ -19,7 +19,7 @@ The items are transported by the conveyor through the laser beam. At the same ti
 | Driver | ST-Link |
 | Communications Protocol | Inter Integrated Circuit (I2C) |
 | Programming Language | C/C++ |
-| Arduino Library | ? |
+| Arduino Library | Arduino (default) |
 | Sensor | • LDR: Light Dependent Resistor (x1)<br>• KY-008: Laser Transmitter Module 5V (x1) |
 | Display | OLED I2C (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Mini USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Resistor (1 set) |
