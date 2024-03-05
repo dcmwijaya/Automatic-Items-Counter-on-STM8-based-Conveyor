@@ -5,7 +5,7 @@
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Solo Project: Automatic Items Counter on STM8-based Conveyor</strong><br><br>
-The items are transported by the conveyor through the laser beam. At the same time, the system counts the number of items. The constant light emitted by the laser is used as a trigger in the sensor reading. The sensor will measure the high-low intensity of the incoming light. Under normal circumstances, the received light intensity is high. If the light intensity is low, it is certain that an object is passing by. The calculation results will be displayed on the LCD screen. This work may be useful for business people because it can increase efficiency in production.
+Automatic goods counter is a fast and precise tool for humans to get the sum of goods. The purpose of this project is to provide education to the wider community on how to make a simple automatic item counter. This project has been implemented and took approximately 2 weeks. This system is made to be used as a complement to the conveyor. In addition, this system has also provided display and reset features for the needs of its users. The way this system works is that if the goods transported by the conveyor are right in front of the laser beam, the light intensity received by the LDR sensor is low, so it is considered that there are goods and starts counting. The calculation results will be displayed on the LCD screen. This project will be useful for business people, because it can increase efficiency in production. The results show that this system can function properly.
 
 <br><br>
 
