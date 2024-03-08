@@ -129,9 +129,9 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
    
 5. Before uploading the program please click: ``` Verify ```.<br><br>
 
-6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+6. If there is no error in the program code, the next step is to use the ``` STM8 ``` programming tool according to the procedure. Then click: ``` Upload ```.<br><br>
 
-7. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
+7. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` programmer tool ``` / ``` others ``` section.
 
 <br><br>
 
