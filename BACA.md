@@ -129,9 +129,9 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
    
 5. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
-6. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+6. Jika tidak ada kesalahan dalam kode program, langkah selanjutnya yaitu menggunakan alat pemrograman ``` STM8 ``` sesuai dengan prosedur. Kemudian klik: ``` Upload ```.<br><br>
 
-7. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+7. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` alat pemrogram ``` / ``` yang lainnya ```.
 
 <br><br>
 
