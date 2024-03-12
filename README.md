@@ -135,7 +135,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 
 <br><br>
 
-## Programmer Tools Setup: ST-Link/V2
+## ST-Link/V2 Setup
 <img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
 
 <strong>Notes:</strong>
@@ -152,7 +152,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 
 <br><br>
 
-## Serial Communication Tool Setup: FTDI USB
+## FTDI USB Setup
 <img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1951640d-ee60-48e6-88e6-6aefeaed9bd3"><br><br>
 
 <strong>Notes:</strong>
