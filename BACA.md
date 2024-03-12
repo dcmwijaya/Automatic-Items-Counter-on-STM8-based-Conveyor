@@ -15,7 +15,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 | Papan Pengembangan | STM8S103F3P6 |
 | Editor Kode | Arduino IDE |
 | Alat Pemrogram | ST-Link/V2 |
-| Alat Komunikasi Serial | FTDI FT232RL |
+| Alat Komunikasi Serial | USB FTDI |
 | Driver | • ST-Link<br>• USB-Serial CDM |
 | Protokol Komunikasi | Inter Integrated Circuit (I2C) |
 | Bahasa Pemrograman | C/C++ |
@@ -152,7 +152,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 
 <br><br>
 
-## Pengaturan Alat Komunikasi Serial: FTDI FT232RL
+## Pengaturan USB FTDI
 <img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1951640d-ee60-48e6-88e6-6aefeaed9bd3"><br><br>
 
 <strong>Catatan :</strong>
