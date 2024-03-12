@@ -163,7 +163,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 
    • You can see the wiring between the ``` FTDI USB ``` and the ``` STM8 ``` board in detail in the picture above.
 
-   • Based on my experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because they are known to be more stable in performance.
+   • Based on experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because they are known to be more stable in performance.
    
    </td></tr></table>
 
