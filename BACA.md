@@ -163,7 +163,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
    
    • Pemasangan kabel antara ``` USB FTDI ``` dengan board ``` STM8 ``` dapat anda lihat detailnya pada gambar di atas.
 
-   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB FTDI ``` atau ``` USB CP2102 ``` jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` USB CH340 ``` karena kinerjanya lebih stabil.
+   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB FTDI ``` atau ``` USB CP2102 ``` itu jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` USB CH340 ``` karena diketahui kinerjanya lebih stabil.
 
    </td></tr></table><br>
 
