@@ -15,7 +15,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 | Development Board | STM8S103F3P6 |
 | Code Editor | Arduino IDE |
 | Programmer Tools | ST-Link/V2 |
-| Serial Communication Tools | FTDI FT232RL |
+| Serial Communication Tools | FTDI USB |
 | Driver | • ST-Link<br>• USB-Serial CDM |
 | Communications Protocol | Inter Integrated Circuit (I2C) |
 | Programming Language | C/C++ |
@@ -152,16 +152,18 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 
 <br><br>
 
-## Serial Communication Tool Setup: FTDI FT232RL
+## Serial Communication Tool Setup: FTDI USB
 <img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1951640d-ee60-48e6-88e6-6aefeaed9bd3"><br><br>
 
 <strong>Notes:</strong>
 
    <table><tr><td width="840">
 
-   • Serial communication on this ``` STM8 ``` board is very possible, especially for ``` Serial Monitor ``` and ``` Serial Plotter ``` purposes. The use of ``` FTDI FT232RL ``` and ``` PL2303 ``` is highly recommended.
+   • Serial communication on this ``` STM8 ``` board is very possible, especially for ``` Serial Monitor ``` and ``` Serial Plotter ``` purposes. Tools that can be used for serial communication include: ``` CP2102 USB ```, ``` CH340 USB ```, ``` FTDI USB ```, or with ``` PL2303 USB ```.
 
-   • You can see the wiring between the ``` FTDI FT232RL ``` and the ``` STM8 ``` board in detail in the picture above.
+   • You can see the wiring between the ``` FTDI USB ``` and the ``` STM8 ``` board in detail in the picture above.
+
+   • Based on my experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because they are known to be more stable in performance.
    
    </td></tr></table>
 
