@@ -135,7 +135,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 
 <br><br>
 
-## Pengaturan Alat Pemrogram: ST-Link/V2
+## Pengaturan ST-Link/V2
 <img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
 
 <strong>Catatan :</strong>
