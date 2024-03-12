@@ -159,9 +159,11 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 
    <table><tr><td width="840">
 
-   • Komunikasi serial pada board ``` STM8 ``` ini sangat dimungkinkan terjadi, terutama untuk keperluan ``` Serial Monitor ``` dan ``` Serial Plotter ```. Penggunaan ``` FTDI FT232RL ``` dan ``` PL2303 ``` sangat direkomendasikan.
+   • Komunikasi serial pada board ``` STM8 ``` ini sangat dimungkinkan terjadi, terutama untuk keperluan ``` Serial Monitor ``` dan ``` Serial Plotter ```. Alat yang dapat dipakai untuk komunikasi serial antara lain: ``` USB CP2102 ```, ``` USB CH340 ```, ``` USB FTDI ```, atau dengan ``` USB PL2303 ```.
    
-   • Pemasangan kabel antara ``` FTDI FT232RL ``` dengan board ``` STM8 ``` dapat anda lihat detailnya pada gambar di atas.
+   • Pemasangan kabel antara ``` USB FTDI ``` dengan board ``` STM8 ``` dapat anda lihat detailnya pada gambar di atas.
+
+   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB FTDI ``` atau ``` USB CP2102 ``` jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` USB CH340 ``` karena kinerjanya lebih stabil.
 
    </td></tr></table><br>
 
