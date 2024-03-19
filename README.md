@@ -193,7 +193,7 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
    
 4. Press ``` Enter ```, then you can see the result as the picture below.
    
-   <img width="810" height="500" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
+   <img width="810" height="250" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
 
 <br><br>
 
