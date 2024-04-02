@@ -87,7 +87,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 
 void setup() {
   Wire.begin();
-  Serial.begin(115200);
+  Serial.begin(9600);
   while (!Serial); // Wait for serial monitor
   Serial.println("\nI2C Scanner");
 }
