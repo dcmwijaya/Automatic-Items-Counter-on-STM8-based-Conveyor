@@ -16,7 +16,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 | Editor Kode | Arduino IDE |
 | Alat Pemrogram | ST-Link/V2 |
 | Alat Komunikasi Serial | USB FTDI |
-| Driver | • ST-Link<br>• USB-Serial CDM |
+| Driver | • ST-Link USB Driver<br>• CDM FTDI USB Driver |
 | Protokol Komunikasi | Inter Integrated Circuit (I2C) |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | LiquidCrystal_I2C (bawaan) |
@@ -32,27 +32,27 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
    <table><tr><td width="810">
 
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. ST-Link Driver
+2. ST-Link USB Driver
 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/STLink_Driver
+   https://bit.ly/STLink_USB_Driver
    ```
 
    </td></tr></table><br>
    
-3. USB-Serial CDM
+3. CDM FTDI USB Driver
 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CDM_Driver
+   https://bit.ly/CDM_FTDI_USB_Driver
    ```
 
    </td></tr></table>
