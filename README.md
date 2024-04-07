@@ -16,7 +16,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 | Code Editor | Arduino IDE |
 | Programmer Tools | ST-Link/V2 |
 | Serial Communication Tools | FTDI USB |
-| Driver | • ST-Link<br>• USB-Serial CDM |
+| Driver | • ST-Link USB Driver<br>• CDM FTDI USB Driver |
 | Communications Protocol | Inter Integrated Circuit (I2C) |
 | Programming Language | C/C++ |
 | Arduino Library | LiquidCrystal_I2C (default) |
@@ -32,27 +32,27 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
    <table><tr><td width="810">
    
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. ST-Link Driver
+2. ST-Link USB Driver
 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/STLink_Driver
+   https://bit.ly/STLink_USB_Driver
    ```
 
    </td></tr></table><br>
    
-3. USB-Serial CDM
+3. CDM FTDI USB Driver
 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CDM_Driver
+   https://bit.ly/CDM_FTDI_USB_Driver
    ```
 
    </td></tr></table>
