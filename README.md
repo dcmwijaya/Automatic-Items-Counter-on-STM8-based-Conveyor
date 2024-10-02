@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor)
-![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/STM32-based-Wheeled-Robot-with-Bluetooth-control?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Solo Project: Automatic Items Counter on STM8-based Conveyor</strong><br><br>
@@ -66,8 +67,8 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 <th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/380136da-c98e-4f66-8a92-a509497e4231" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1fe1130e-faef-49a8-8d26-acdc92927353" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -75,7 +76,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/aadab5f3-fe69-4972-8175-ee3f4d3b46b4" alt="Wiring"></td>
+<td><img width="840" src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -184,7 +185,7 @@ void loop() {
 <br><br>
 
 ## ST-Link/V2 Setup
-<img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
+<img width="840" src="Assets/Documentation/Experiment/ST-Link Configuration.jpg" alt="stlink-configuration"><br><br>
 
 <strong>Notes:</strong>
 
@@ -201,7 +202,7 @@ void loop() {
 <br><br>
 
 ## FTDI USB Setup
-<img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1951640d-ee60-48e6-88e6-6aefeaed9bd3"><br><br>
+<img width="840" src="Assets/Documentation/Experiment/FTDI Configuration.jpg" alt="ftdi-configuration"><br><br>
 
 <strong>Notes:</strong>
 
@@ -241,7 +242,7 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
    
 4. Press ``` Enter ```, then you can see the result as the picture below.
    
-   <img width="810" height="250" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
+   <img width="810" height="250" src="Assets/Documentation/Experiment/Remove Protection STM8.jpg" alt="rmv-protection">
 
 <br><br>
 
@@ -259,12 +260,12 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
 <br><br>
 
 ## Highlights
-<img width="840" src="" alt="auto_items_counter">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="auto-items-counter">
 
 <br><br>
 
 ## Appreciation
-If this work is useful to you, then support this work as a form of appreciation to the author by clicking the ``` ⭐Star ``` button at the top of the repository.
+This application is my own work and is not the result of plagiarism from other people's research or work, except those related to third party services which include: editor code, libraries, frameworks, and so on.
 
 <br><br>
 

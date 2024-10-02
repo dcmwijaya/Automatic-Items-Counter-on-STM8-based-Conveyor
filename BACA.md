@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor)
-![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/STM32-based-Wheeled-Robot-with-Bluetooth-control?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Automatic-Items-Counter-on-STM8-based-Conveyor
 <strong>Proyek Tunggal: Penghitung Barang Otomatis pada Konveyor berbasis STM8</strong><br><br>
@@ -66,8 +67,8 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/380136da-c98e-4f66-8a92-a509497e4231" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1fe1130e-faef-49a8-8d26-acdc92927353" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -75,7 +76,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/aadab5f3-fe69-4972-8175-ee3f4d3b46b4" alt="Wiring"></td>
+<td><img width="840" src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -184,7 +185,7 @@ void loop() {
 <br><br>
 
 ## Pengaturan ST-Link/V2
-<img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/989711ed-6397-4819-aa6a-0fee6da782e8"><br><br>
+<img width="840" src="Assets/Documentation/Experiment/ST-Link Configuration.jpg" alt="stlink-configuration"><br><br>
 
 <strong>Catatan :</strong>
 
@@ -201,7 +202,7 @@ void loop() {
 <br><br>
 
 ## Pengaturan USB FTDI
-<img width="840" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/1951640d-ee60-48e6-88e6-6aefeaed9bd3"><br><br>
+<img width="840" src="Assets/Documentation/Experiment/FTDI Configuration.jpg" alt="ftdi-configuration"><br><br>
 
 <strong>Catatan :</strong>
 
@@ -241,7 +242,7 @@ Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan,
    
 4. Tekan ``` Enter ```, lalu hasilnya dapat anda lihat seperti gambar di bawah ini.
    
-   <img width="810" height="250" src="https://github.com/devancakra/Automatic-Items-Counter-on-STM8-based-Conveyor/assets/54527592/6a0e5380-5999-4ea5-bdec-aa2167e08915">
+   <img width="810" height="250" src="Assets/Documentation/Experiment/Remove Protection STM8.jpg" alt="rmv-protection">
 
 <br><br>
 
@@ -259,7 +260,7 @@ Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan,
 <br><br>
 
 ## Sorotan
-<img width="840" src="" alt="auto_items_counter">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="auto-items-counter">
 
 <br><br>
 
@@ -269,7 +270,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+Aplikasi ini merupakan hasil karya saya sendiri dan bukan merupakan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berkaitan dengan layanan pihak ketiga yang meliputi: kode editor, library, framework, dan lain sebagainya.
 
 <br><br>
 
